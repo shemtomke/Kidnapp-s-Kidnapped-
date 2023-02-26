@@ -20,4 +20,5 @@ public class ScoreManager : MonoBehaviour
         newScore += randomScore;
         scoreUI.text = "" + newScore;
     }
+
 }
